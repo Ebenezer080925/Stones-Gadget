@@ -20,7 +20,7 @@ This workflow operates as a smart retail assistant. Instead of relying on static
 * **Dynamic Inventory Search:** AI Agent automatically decides which Google Sheet tab to search based on the user's prompt.
 * **Fuzzy Matching:** Capable of understanding variations in product names (e.g., matching "S22 Ultra" from the chat to "Samsung S22 U" in the database).
 * **Context-Aware Memory:** Remembers the user's chat history within the session to provide natural, multi-turn conversations.
-* **Automated Order Processing:** Once a customer confirms an intent to buy, the bot generates a unique 6-character order code (e.g., STONES-9A2Z) and hands off the payment instructions.
+* **Automated Order Processing:** Once a customer confirms an intent to buy, the bot generates a unique 6-character order code (e.g., STONES-9A2Z) and hands off the payment instructions. 
 
 ### Telegram Conversation 
 ![]()
