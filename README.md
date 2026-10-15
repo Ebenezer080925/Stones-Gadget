@@ -23,7 +23,7 @@ This workflow operates as a smart retail assistant. Instead of relying on static
 * **Automated Order Processing:** Once a customer confirms an intent to buy, the bot generates a unique 6-character order code (e.g., STONES-9A2Z) and hands off the payment instructions. 
 
 ### Telegram Conversation 
-![]()
+![](https://github.com/Ebenezer080925/Stones-Gadget/blob/main/telegram%20chatbot.png)
 
 ### Google sheet for Workflow to get prices
 ![](https://github.com/Ebenezer080925/Stones-Gadget/blob/main/Screenshot%202026-10-15%20143213.png)
